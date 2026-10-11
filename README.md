@@ -1,1 +1,2 @@
-# mi-first-project
+# mi-first-projekt
+# Хорошего дня!
